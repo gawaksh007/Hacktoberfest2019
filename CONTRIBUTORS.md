@@ -332,6 +332,12 @@
 - Bio: Student and want to be a Data Scientists
 - Github: https://github.com/alifnaufalyasin
 
+### Alif Naufal
+- Photo: https://avatars3.githubusercontent.com/u/49275855?s=460&v=4
+- Location: Bandung, Indonesia
+- Bio: Student and want to be a Data Scientists
+- Github: https://github.com/alifnaufalyasin
+
 ### Kasun nirosh
 - Photo:
 - Location: colombo,srilanka
